@@ -1,4 +1,5 @@
 # linked-list
+singly ll
 code for deletion and insertion
 #include <iostream>
 using namespace std;
